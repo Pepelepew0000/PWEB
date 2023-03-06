@@ -1,0 +1,37 @@
+1.Introdução: O que é o Back End?
+
+    O Back End no que se refere a aplicações WEB é a porção da aplicação que está oculta ao usuário, portanto
+nela que conexões com API's de terceiros, regras de negócios e dados trazidos do banco são manejados. O Back End contêm grande parte do conteúdo que envolve manipulação de dados de uma aplicação, e para isso existem linguagens
+que nos panos de fundo fazem essas tarefas.
+
+2. Qual é a diferença de uma linguagem e um framework?
+
+    Linguagens de programação são um conjunto de instruções que podem ser compiladas ou interpretadas para
+executar certos comandos em um computador, por si só os compiladores e interpretadores só são capazes de interagir com a memória do computador e em sua vasta maioria fazem isso através de um terminal.
+    Um Framework é um ferramenta que agrupa bibliotecas de código para facilitar a programação em uma área.
+    Existem frameworks especificos para facilitar o desenvolvimento WEB, Mobile, de banco de dados,
+aplicações Desktop e até para jogos. Por isso é comum que cada linguagem tenha seu framework para facilitar a programação de uma aplicação de um tipo especifico, além cada linguagem ter um framework diferente.
+
+3. Quais as linguagens mais usadas para desenvolvimento Back End?
+
+    1.Javascript: Essa linguagem tem multiplas ferramentas para desenvolvimento back end como os ambientes de execução do node.js e o deno.js além de ser interpretada nativamente pela maioria dos navegadores, isso a torna muito popular no desenvolvimento web.
+
+    2.Python: Python é uma linguagem em larga ascendencia além de ter muitos frameworks para diferentes tarefas
+    como o desenvolvimento WEB alguns deles são Django, Flask, CherryPy,Bottle e Web2Py.
+
+    3.Java: Java é uma linguagem pioneira por sua portabilidade e um framework chamado Spring-Boot como seu principal facilitador no desenvolvimento Back-End
+
+    4.PHP: PHP é uma linguagem bastante antiga no ramo de desenvolvimento Back End e seu framework mais usado nesse ramo é o Laravel.
+
+    5.Ruby: Tem uma comunidade muito forte e ativa dentro do ramo de desenvolvimento back end e usa principalmente ruby-on-rails para essa tarefa.
+
+
+
+    Referências:
+    What do frameworks have to offer that programming languages lack?
+    Disponível em: <https://devm.io/programming/frameworks-vs-programming languages-134954-001#:~:text=Frameworks%20are%20cohesive%20sets%20of>.
+
+    The Best 10 Backend Programming Languages. Disponível em: <https://blog.back4app.com/backend-programming-languages-list/#:~:text=JavaScript%2C%20PHP%2C%20Python%2C%20Java>. Acesso em: 6 mar. 2023.
+
+‌
+
