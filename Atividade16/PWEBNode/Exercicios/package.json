@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "ejs": "^2.5.6",
+    "express": "^4.15.3",
+    "prompt-sync": "^4.2.0"
+  },
+  "name": "site_fatec",
+  "version": "1.0.0",
+  "description": "Site da Fatec",
+  "main": "execicio6.js",
+  "scripts": {
+    "test": "--test"
+  },
+  "author": "Guilherme Fidalgo",
+  "license": "ISC"
+}
